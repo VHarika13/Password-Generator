@@ -19,7 +19,7 @@ You can specify the number of: <br>
    $ git clone https://github.com/VHarika13/Password-Generator.git
    $ cd Password-Generator
 
-## Follow the prompts to specify:
+## Follow the prompts:
 
 1.Number of letters <br>
 2.Number of symbols <br>
