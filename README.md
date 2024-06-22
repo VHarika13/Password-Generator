@@ -21,8 +21,8 @@ You can specify the number of: <br>
 
 ## Follow the prompts:
 
-1.Number of letters <br>
-2.Number of symbols <br>
-3.Number of numbers <br>
-4.Copy the generated password displayed on the screen for your use. <br>
+1. Number of letters <br>
+2. Number of symbols <br>
+3. Number of numbers <br>
+4. Copy the generated password displayed on the screen for your use. <br>
   
