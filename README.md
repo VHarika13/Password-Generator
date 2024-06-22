@@ -5,11 +5,11 @@ This script allows you to generate random passwords based on specified criteria 
 ## Features
 User Input: <br>
 You can specify the number of: <br>
-.Letters (both lowercase and uppercase) <br>
-.Numbers (0 - 9) <br>
-.Symbols (e.g., !, #, $, %) <br>
-.Randomization: Utilizes Python's random.choice() and random.shuffle() functions to ensure password randomness. <br>
-.Output: Displays the generated password to the user for immediate use. <br>
+- Letters (both lowercase and uppercase) <br>
+- Numbers (0 - 9) <br>
+- Symbols (e.g., !, #, $, %) <br>
+- Randomization: Utilizes Python's random.choice() and random.shuffle() functions to ensure password randomness. <br>
+- Output: Displays the generated password to the user for immediate use. <br>
 
 # Installation
 
