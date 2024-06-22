@@ -21,8 +21,8 @@ Output: Displays the generated password to the user for immediate use.
 
 ## Follow the prompts to specify:
 
-Number of letters
-Number of symbols
-Number of numbers
-Copy the generated password displayed on the screen for your use.
+1.Number of letters
+2.Number of symbols
+3.Number of numbers
+4.Copy the generated password displayed on the screen for your use.
   
